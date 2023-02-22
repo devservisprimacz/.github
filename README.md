@@ -5,8 +5,8 @@
 
 Instalérská společnost v Praze.
 
-- Web: [primaservis.cz](https://primaservis.cz)
-- Old Web: [servisprima.cz](https://servisprima.cz)
+- [Web](https://primaservis.cz)
+- [Old Web](https://servisprima.cz)
 
 ---
 
